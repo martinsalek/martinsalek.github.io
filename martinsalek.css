@@ -1,0 +1,104 @@
+﻿/* CSS Document */
+body {
+	background-image: url(https://i.imgur.com/v7RkPEf.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Roboto Light', sans-serif;
+    text-align: center;
+    background-attachment: fixed;
+    font-weight: bold;
+    }
+
+h1, h2, h3 {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 48pt;
+    padding-top: 20pt;
+    margin-bottom: 5pt;
+    font-family: 'Roboto Thin', sans-serif;
+    
+}
+
+p {
+    text-align: justify;
+    text-indent: 20pt;
+    //font-family: 'Roboto Normal', sans-serif;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 5pt;
+}
+
+.main {
+    
+    padding-bottom: 50pt;
+}
+
+.a {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-weight: 500;
+    color: white;
+    text-align: justify;
+}
+
+a {
+    color: #1a237e;
+    text-decoration: none;    
+}
+
+.vyber {
+    padding-bottom: 20pt;
+    padding-top: 0pt;
+}
+
+.ikona {
+    width: 50%;
+    margin-left: 25%;
+}
+
+/**.i {
+    target: "_blank";
+} */
+
+.zapati {
+    width: 50%;
+    margin-left: 25%;
+    bottom: 30pt;
+    position: relative;
+}
+
+.zap2 {
+    bottom: 20pt;
+    text-align: center;
+    font-size: 8pt;
+    padding-top: 20pt; 
+}
+
+.pre {
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 20pt;
+    margin-bottom: 10pt;
+}
+
+.pre1 {
+    width: 76%;
+    margin-left: 12%;
+    margin-top: 20pt;
+    margin-bottom: 0pt;
+}
+
+.mid {
+    text-align: center;
+    font-weight: 500;
+    color: white;
+}
+
+.ik {
+    padding-bottom: 30pt;
+}
