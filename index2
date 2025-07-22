@@ -1,0 +1,101 @@
+﻿<html>
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="theme-color" content="#ffffff">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="generator" content="PSPad editor, www.pspad.com">
+  <link rel=stylesheet href=martinsalek.css type=text/css>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet">
+  <title>Martin Šálek</title>
+  </head>
+  <body>
+    <table class=main>
+        <tr>
+            <td><h1>Martin Šálek</h1></td>
+        </tr>
+        <tr>
+            <td><h3>Welcome to my crossroads.</h3></td>
+        </tr>
+        
+        <tr>
+            <th class=vyber>Here you can find my contact information and other channels.
+        <!--
+        <tr>
+            <td><h2>
+                <a href=czvostok.html>Vostok</a>
+            
+            </h2></td>
+        </tr>
+        <tr>
+            <td><h2>
+                <a href=czphotos.html>Fotky</a>
+            
+            </h2></td>
+        </tr>
+        <tr>
+            <td><h2>
+                <a href=czabout.html>O mně</a>
+            
+            </h2></td>
+        </tr>
+        -->
+    
+    </table>
+    <table class=zapati>
+        <th>
+            <td class=ik>
+                <a class=i href=https://www.linkedin.com/in/martinsalek0/ target="_blank" rel="noopener noreferrer"><img class=ikona src="https://i.imgur.com/zJUCoVx.png"></a>
+            </td>   
+            <td class=ik>
+                <a class=i href=https://www.coroflot.com/martinsalek target="_blank" rel="noopener noreferrer"><img class=ikona src="https://i.imgur.com/u5YqYZT.png"></a>
+            </td>
+            <td class=ik>
+                <a class=i href=mailto:duffajfka@yahoo.com target="_blank" rel="noopener noreferrer"><img class=ikona src="https://i.imgur.com/NNocezk.png"></a>
+            </td>
+            <td class=ik>
+                <a class=i href=https://www.polarsteps.com/duffajfka target="_blank" rel="noopener noreferrer"><img class=ikona src="https://i.imgur.com/SRZXWnf.png"></a>
+            </td>
+        </th>
+        </tr>
+        <tr>
+        <th>
+            <td class=ik>
+                <a class=i href=https://www.youtube.com/channel/UCswnYU3yIDY9WBCkISkfPpw target="_blank" rel="noopener noreferrer"><img class=ikona src="https://i.imgur.com/RIXOt8b.png">
+                </a>
+            </td>
+            <td class=ik>
+                <a class=i href=https://www.instagram.com/jdu_fajfka_chociaz/ target="_blank" rel="noopener noreferrer"><img class=ikona src="https://i.imgur.com/zfd87h4.png"></a>
+            </td>
+            <td class=ik>
+                <a class=i href=http://www.facebook.com/duffajfka target="_blank" rel="noopener noreferrer"><img class=ikona src="https://i.imgur.com/fRX3Gt4.png"></a>
+            </td>
+            <td class=ik>
+                <a class=i href=https://open.spotify.com/user/11128285176?si=icKEcSrqQxWo4Po_xr3jcg target="_blank" rel="noopener noreferrer"><img class=ikona src="https://i.imgur.com/qAQzHaO.png"></a>
+            </td>
+            
+            
+            
+        </th>
+        
+        <tr>
+        
+        
+        </tr>
+        <tr>    
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class=zap2></td>
+        </tr>
+    </table>
+ <p class=stred>Martin Šálek 2021
+  </body>
+</html>
